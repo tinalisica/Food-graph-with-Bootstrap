@@ -1,0 +1,22 @@
+.square1 {
+    width: 100px;
+    height: 20px;
+    background-color: papayawhip;
+}
+
+.square2 {
+    width: 40px;
+    height: 20px;
+    background-color: papayawhip;
+}
+
+.square3 {
+    width: 20px;
+    height: 20px;
+    background-color: papayawhip;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
