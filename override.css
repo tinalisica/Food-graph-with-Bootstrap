@@ -1,3 +1,5 @@
+
+
 .square1 {
     width: 100px;
     height: 20px;
@@ -20,17 +22,7 @@
     margin-bottom: 10px;
 }
 
-.absolute {
-    position: absolute;
-    clear: both;
-}
 
-.navbar {
-    width: 70%;
-    margin-top: 20px;
-    margin-left: 20px;
-
-}
 
 
 .container {
@@ -48,4 +40,9 @@
 	.graph-container-graph-content {
 		width: 100%;
 	}
+}
+
+.black-back {
+    position: relative;
+    z-index: -1;
 }
