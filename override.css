@@ -20,3 +20,32 @@
     margin-bottom: 10px;
 }
 
+.absolute {
+    position: absolute;
+    clear: both;
+}
+
+.navbar {
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+
+.container {
+    width: 100%;
+   
+}
+
+.my-panel {
+    margin-top: 70px;
+}
+
+
+@media only screen and (max-width: 413px) {
+	.graph-container-label,
+	.graph-container-graph-content {
+		width: 100%;
+	}
+}
